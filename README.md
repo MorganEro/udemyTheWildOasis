@@ -24,8 +24,8 @@ This is a udemy course practice building a vite/react project
 
 ### Links
 
-- Solution URL: (https://github.com/MorganEro/TheWildOasis)
-- Live Site URL: (https://morganero.github.io/TheWildOasis)
+- Solution URL: (https://github.com/MorganEro/udemyTheWildOasis)
+- Live Site URL:(udemy-the-wild-oasis-kk8g-q4msthuha-morganeros-projects.vercel.app)
 
 ### Built with
 
